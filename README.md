@@ -19,7 +19,7 @@ To use:
   - n is the recursion depth.
 - Complex:
   - Mandelbrot:
-    - Displays random coloured mandelbrot.
+    - Displays random coloured mandelbrot of 256 iterations in under 10 secs!!!(i7-8550u).
   - Julia Set:
     - Displays random Julia Set unless user specifies new complex number above.
 - IFS:
@@ -27,6 +27,6 @@ To use:
     image in the iters param. The functions that compose the image are in diferent colours,
     for the user to identify them.
   - Add a new ifs code by typing the values of the diferent parameters of its functions,
-    adding them one by one with the add button. When you have all the functions that compose
-    the image inserted, click Draw to display your own IFS. If you like it, save it's IFS code
+    adding these functions one by one with the add button. When you have all the functions that compose
+    the image inserted, hit Draw to display your own IFS. If you like it, save it's IFS code
     with the Save button.
